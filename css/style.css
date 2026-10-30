@@ -1634,6 +1634,7 @@ textarea:focus-visible {
     border-radius: 10px;
     padding: 16px;
     margin-top: 220px;
+    position: relative;
   }
 }
 
