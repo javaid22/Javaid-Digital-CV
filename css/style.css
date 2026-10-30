@@ -1632,7 +1632,8 @@ textarea:focus-visible {
   }
   
   .floating-experience-card {
-    position: relative;
+    position: absolute;
+    bottom:0;
     right: auto;
     bottom: auto;
     margin-top: 16px;
